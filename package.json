@@ -1,0 +1,21 @@
+{
+  "name": "theodinprojectnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MosesKal/theOdinProjectNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MosesKal/theOdinProjectNode/issues"
+  },
+  "homepage": "https://github.com/MosesKal/theOdinProjectNode#readme"
+}
